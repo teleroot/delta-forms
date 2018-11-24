@@ -1,6 +1,6 @@
 {
   "name": "delta-forms",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Form component for DeltaJS library",
   "main": "src/index.js",
   "scripts": {
@@ -20,8 +20,6 @@
     "jsdoc": "^3.5.5"
   },
   "dependencies": {
-    "axios": "^0.18.0",
-    "delta-lib": "^2.0.4",
-    "qs": "^6.5.2"
+    "delta-lib": "^2.0.4"
   }
 }
